@@ -1,0 +1,15 @@
+G:\ctest\fuwuqi1\TaskManager.DLL\bin\Debug\netstandard2.0\TaskManager.DLL.deps.json
+G:\ctest\fuwuqi1\TaskManager.DLL\bin\Debug\netstandard2.0\TaskManager.DLL.dll
+G:\ctest\fuwuqi1\TaskManager.DLL\bin\Debug\netstandard2.0\TaskManager.DLL.pdb
+G:\ctest\fuwuqi1\TaskManager.DLL\obj\Debug\netstandard2.0\TaskManager.DLL.csprojAssemblyReference.cache
+G:\ctest\fuwuqi1\TaskManager.DLL\obj\Debug\netstandard2.0\TaskManager.DLL.AssemblyInfoInputs.cache
+G:\ctest\fuwuqi1\TaskManager.DLL\obj\Debug\netstandard2.0\TaskManager.DLL.AssemblyInfo.cs
+G:\ctest\fuwuqi1\TaskManager.DLL\obj\Debug\netstandard2.0\TaskManager.DLL.dll
+G:\ctest\fuwuqi1\TaskManager.DLL\obj\Debug\netstandard2.0\TaskManager.DLL.pdb
+F:\ctest\fuwuqi1\TaskManager.DLL\bin\Debug\netstandard2.0\TaskManager.DLL.deps.json
+F:\ctest\fuwuqi1\TaskManager.DLL\bin\Debug\netstandard2.0\TaskManager.DLL.dll
+F:\ctest\fuwuqi1\TaskManager.DLL\bin\Debug\netstandard2.0\TaskManager.DLL.pdb
+F:\ctest\fuwuqi1\TaskManager.DLL\obj\Debug\netstandard2.0\TaskManager.DLL.AssemblyInfoInputs.cache
+F:\ctest\fuwuqi1\TaskManager.DLL\obj\Debug\netstandard2.0\TaskManager.DLL.AssemblyInfo.cs
+F:\ctest\fuwuqi1\TaskManager.DLL\obj\Debug\netstandard2.0\TaskManager.DLL.dll
+F:\ctest\fuwuqi1\TaskManager.DLL\obj\Debug\netstandard2.0\TaskManager.DLL.pdb
